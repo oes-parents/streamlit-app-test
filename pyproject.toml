@@ -8,6 +8,10 @@ authors = ["Masuda Shinsuke <shinsuke.masuda@gmail.com>"]
 python = "^3.10"
 streamlit = "^1.21.0"
 watchdog = "^3.0.0"
+google-api-python-client = "^2.86.0"
+google-auth-oauthlib = "^1.0.0"
+google-auth-httplib2 = "^0.1.0"
+slack-sdk = "^3.21.2"
 
 [tool.poetry.dev-dependencies]
 
