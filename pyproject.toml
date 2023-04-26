@@ -7,6 +7,7 @@ authors = ["Masuda Shinsuke <shinsuke.masuda@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 streamlit = "^1.21.0"
+watchdog = "^3.0.0"
 
 [tool.poetry.dev-dependencies]
 
